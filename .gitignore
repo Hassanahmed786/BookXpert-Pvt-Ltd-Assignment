@@ -1,0 +1,4 @@
+fine_tuned_model/
+__pycache__/
+*.pyc
+.env

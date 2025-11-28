@@ -1,0 +1,42 @@
+[
+    {
+        "ingredients": ["chicken", "rice", "vegetables"],
+        "recipe": "Grilled Chicken with Rice and Vegetables: Marinate chicken in herbs, grill, serve with steamed rice and mixed vegetables."
+    },
+    {
+        "ingredients": ["beef", "potatoes", "carrots"],
+        "recipe": "Beef Stew: Brown beef, add potatoes and carrots, simmer in broth until tender."
+    },
+    {
+        "ingredients": ["pasta", "tomatoes", "cheese"],
+        "recipe": "Pasta Primavera: Cook pasta, mix with sautéed tomatoes and cheese."
+    },
+    {
+        "ingredients": ["fish", "lemon", "herbs"],
+        "recipe": "Lemon Herb Fish: Bake fish with lemon slices and fresh herbs."
+    },
+    {
+        "ingredients": ["eggs", "bread", "butter"],
+        "recipe": "Eggs on Toast: Fry eggs, serve on buttered toast."
+    },
+    {
+        "ingredients": ["eggs", "onions", "tomatoes"],
+        "recipe": "Eggs with Onions and Tomatoes: Sauté onions and tomatoes, add scrambled eggs, season with salt and pepper."
+    },
+    {
+        "ingredients": ["chicken", "onions", "garlic"],
+        "recipe": "Garlic Chicken with Onions: Cook chicken with garlic and onions in a pan."
+    },
+    {
+        "ingredients": ["beef", "onions", "potatoes"],
+        "recipe": "Beef and Potato Stew with Onions: Simmer beef, onions, and potatoes in broth."
+    },
+    {
+        "ingredients": ["pasta", "onions", "cheese"],
+        "recipe": "Cheesy Pasta with Onions: Boil pasta, sauté onions, mix with cheese."
+    },
+    {
+        "ingredients": ["fish", "onions", "lemon"],
+        "recipe": "Lemon Fish with Onions: Bake fish with onions and lemon."
+    }
+]

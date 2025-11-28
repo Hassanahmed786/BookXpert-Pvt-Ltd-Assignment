@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+requests
+torch
+transformers
+datasets
+accelerate

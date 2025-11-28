@@ -1,0 +1,10 @@
+Ingredients: chicken, rice, vegetables. Recipe: Grilled Chicken with Rice and Vegetables: Marinate chicken in herbs, grill, serve with steamed rice and mixed vegetables.
+Ingredients: beef, potatoes, carrots. Recipe: Beef Stew: Brown beef, add potatoes and carrots, simmer in broth until tender.
+Ingredients: pasta, tomatoes, cheese. Recipe: Pasta Primavera: Cook pasta, mix with sautéed tomatoes and cheese.
+Ingredients: fish, lemon, herbs. Recipe: Lemon Herb Fish: Bake fish with lemon slices and fresh herbs.
+Ingredients: eggs, bread, butter. Recipe: Eggs on Toast: Fry eggs, serve on buttered toast.
+Ingredients: eggs, onions, tomatoes. Recipe: Eggs with Onions and Tomatoes: Sauté onions and tomatoes, add scrambled eggs, season with salt and pepper.
+Ingredients: chicken, onions, garlic. Recipe: Garlic Chicken with Onions: Cook chicken with garlic and onions in a pan.
+Ingredients: beef, onions, potatoes. Recipe: Beef and Potato Stew with Onions: Simmer beef, onions, and potatoes in broth.
+Ingredients: pasta, onions, cheese. Recipe: Cheesy Pasta with Onions: Boil pasta, sauté onions, mix with cheese.
+Ingredients: fish, onions, lemon. Recipe: Lemon Fish with Onions: Bake fish with onions and lemon.
