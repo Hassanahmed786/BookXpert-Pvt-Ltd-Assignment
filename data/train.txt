@@ -8,3 +8,40 @@ Ingredients: chicken, onions, garlic. Recipe: Garlic Chicken with Onions: Cook c
 Ingredients: beef, onions, potatoes. Recipe: Beef and Potato Stew with Onions: Simmer beef, onions, and potatoes in broth.
 Ingredients: pasta, onions, cheese. Recipe: Cheesy Pasta with Onions: Boil pasta, sauté onions, mix with cheese.
 Ingredients: fish, onions, lemon. Recipe: Lemon Fish with Onions: Bake fish with onions and lemon.
+Ingredients: rice, chicken, spices, onions. Recipe: Chicken Biryani: Cook rice with marinated chicken, spices, and onions in layers.
+Ingredients: potatoes, onions, spices, oil. Recipe: Aloo Bhujia: Fry potatoes and onions with spices until crispy.
+Ingredients: lentils, tomatoes, spices, ghee. Recipe: Dal Tadka: Cook lentils with tomatoes and spices, top with ghee tadka.
+Ingredients: flour, potatoes, spices, oil. Recipe: Aloo Paratha: Stuff paratha dough with spiced potatoes, cook on griddle.
+Ingredients: rice, vegetables, spices, coconut. Recipe: Vegetable Pulao: Cook rice with mixed vegetables and spices.
+Ingredients: chicken, yogurt, spices, onions. Recipe: Chicken Tikka: Marinate chicken in yogurt and spices, grill.
+Ingredients: paneer, tomatoes, cream, spices. Recipe: Paneer Butter Masala: Cook paneer in tomato cream sauce with spices.
+Ingredients: rice, lentils, spices, ghee. Recipe: Khichdi: Cook rice and lentils with spices, serve with ghee.
+Ingredients: flour, sugar, ghee, nuts. Recipe: Gajar Halwa: Grate carrots, cook with sugar and ghee, garnish with nuts.
+Ingredients: flour, potatoes, peas, spices. Recipe: Samosa: Fill pastry with spiced potatoes and peas, deep fry.
+Ingredients: rice, fish, coconut, spices. Recipe: Fish Curry: Cook fish in coconut milk with spices.
+Ingredients: wheat flour, spinach, spices, oil. Recipe: Palak Paratha: Mix spinach in dough, cook with spices.
+Ingredients: mutton, onions, spices, yogurt. Recipe: Mutton Rogan Josh: Cook mutton with onions, spices, and yogurt.
+Ingredients: rice, milk, sugar, cardamom. Recipe: Rice Kheer: Cook rice in milk with sugar and cardamom.
+Ingredients: chickpeas, tomatoes, onions, spices. Recipe: Chana Masala: Cook chickpeas with tomatoes, onions, and spices.
+Ingredients: flour, sugar, butter, cocoa. Recipe: Chocolate Cake: Mix flour, sugar, butter, bake with cocoa.
+Ingredients: bread, eggs, milk, sugar. Recipe: French Toast: Dip bread in egg mixture, fry.
+Ingredients: pasta, tomato sauce, cheese, herbs. Recipe: Pasta Alfredo: Cook pasta, mix with sauce and cheese.
+Ingredients: chicken, flour, eggs, bread crumbs. Recipe: Chicken Nuggets: Bread chicken pieces, fry.
+Ingredients: beef, noodles, vegetables, soy sauce. Recipe: Beef Stir Fry: Stir fry beef with noodles and vegetables.
+Ingredients: salmon, lemon, butter, herbs. Recipe: Baked Salmon: Bake salmon with lemon, butter, and herbs.
+Ingredients: quinoa, vegetables, feta, olive oil. Recipe: Quinoa Salad: Mix quinoa with vegetables and feta.
+Ingredients: lamb, rice, nuts, spices. Recipe: Lamb Pilaf: Cook lamb with rice, nuts, and spices.
+Ingredients: shrimp, garlic, butter, wine. Recipe: Garlic Shrimp: Sauté shrimp in garlic butter.
+Ingredients: turkey, cranberries, bread, herbs. Recipe: Turkey Sandwich: Make sandwich with turkey and cranberries.
+Ingredients: pork, apples, cinnamon, sugar. Recipe: Pork Chops with Apples: Cook pork with apples and spices.
+Ingredients: duck, orange, honey, ginger. Recipe: Orange Duck: Roast duck with orange sauce.
+Ingredients: veal, mushrooms, wine, cream. Recipe: Veal Marsala: Cook veal with mushrooms in wine sauce.
+Ingredients: rabbit, garlic, rosemary, wine. Recipe: Rabbit Stew: Simmer rabbit with garlic and herbs.
+Ingredients: venison, berries, vinegar, sugar. Recipe: Venison Marinade: Marinate venison in berry sauce.
+Ingredients: goose, apples, cider, spices. Recipe: Goose with Apples: Roast goose with apple cider.
+Ingredients: pheasant, bacon, onions, wine. Recipe: Pheasant Casserole: Cook pheasant with bacon and onions.
+Ingredients: quail, grapes, butter, thyme. Recipe: Quail with Grapes: Bake quail with grapes and herbs.
+Ingredients: ostrich, peppers, onions, spices. Recipe: Ostrich Stir Fry: Stir fry ostrich with vegetables.
+Ingredients: emu, mushrooms, cream, wine. Recipe: Emu in Cream Sauce: Cook emu with mushrooms in cream.
+Ingredients: kangaroo, beer, onions, garlic. Recipe: Kangaroo Burgers: Grill kangaroo patties with onions.
+Ingredients: buffalo, corn, beans, chili. Recipe: Buffalo Chili: Cook buffalo with corn and beans.

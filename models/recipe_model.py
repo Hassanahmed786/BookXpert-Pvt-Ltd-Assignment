@@ -17,28 +17,27 @@ class RecipeModel:
     
     def generate_recipe(self, ingredients):
         ingredients_str = ', '.join(ingredients)
-        prompt = f"Ingredients: {ingredients_str}. Provide a full recipe with detailed steps: "
+        prompt = f"Ingredients: {ingredients_str}. Recipe:"
         inputs = self.tokenizer.encode(prompt, return_tensors='pt')
         with torch.no_grad():
             outputs = self.model.generate(
                 inputs,
-                max_length=300,
+                max_length=100,
                 num_return_sequences=1,
-                no_repeat_ngram_size=3,
+                no_repeat_ngram_size=2,
                 early_stopping=True,
-                temperature=0.7,
+                temperature=0.5,
                 do_sample=True,
-                top_p=0.9,
                 pad_token_id=self.tokenizer.eos_token_id,
                 eos_token_id=self.tokenizer.eos_token_id
             )
         full_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
-        # Extract the recipe part after the prompt
-        if "Provide a full recipe with detailed steps:" in full_text:
-            recipe = full_text.split("Provide a full recipe with detailed steps:")[1].strip()
+        # Extract the recipe part
+        if "Recipe:" in full_text:
+            recipe = full_text.split("Recipe:")[1].strip()
+            # Stop at next "Ingredients:" if present
+            if "Ingredients:" in recipe:
+                recipe = recipe.split("Ingredients:")[0].strip()
+            return recipe
         else:
-            recipe = full_text.replace(prompt, "").strip()
-        # Ensure it's not cut off; if too short, regenerate or fallback
-        if len(recipe) < 50:
-            recipe = "Sorry, unable to generate a complete recipe. Try different ingredients."
-        return recipe
+            return full_text
