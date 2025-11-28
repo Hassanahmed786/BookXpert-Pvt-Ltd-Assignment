@@ -10,6 +10,11 @@ tab1, tab2 = st.tabs(["Name Matching Tool", "Recipe Chatbot"])
 
 with tab1:
     st.header("Name Similarity Matching")
+    st.markdown("""
+    **Example:** Enter 'John Doe' to find similar names like 'Jane Smith' or 'Bob Brown' based on string similarity.
+    
+    **How it works:** This tool uses Python's difflib library to compute similarity scores between the input name and a database of names, ranking matches by ratio.
+    """)
     input_name = st.text_input("Enter a name to find matches:")
     if input_name:
         best_match, best_score = name_matcher.find_best_match(input_name)
@@ -30,6 +35,8 @@ with tab2:
     1. Enter ingredients separated by commas (e.g., eggs, onions, tomatoes).
     2. Click the "Get Recipe" button.
     3. View the AI-generated recipe based on the ingredients.
+    
+    **How responses are generated:** Recipes are created using a fine-tuned GPT-2 language model from Hugging Face, trained on ingredient-recipe pairs to generate coherent cooking instructions from prompts.
     """)
     ingredients_input = st.text_input("Enter ingredients (comma separated):")
     if st.button("Get Recipe"):
