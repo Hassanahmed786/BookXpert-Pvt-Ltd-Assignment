@@ -38,5 +38,153 @@
     {
         "ingredients": ["fish", "onions", "lemon"],
         "recipe": "Lemon Fish with Onions: Bake fish with onions and lemon."
+    },
+    {
+        "ingredients": ["rice", "chicken", "spices", "onions"],
+        "recipe": "Chicken Biryani: Cook rice with marinated chicken, spices, and onions in layers."
+    },
+    {
+        "ingredients": ["potatoes", "onions", "spices", "oil"],
+        "recipe": "Aloo Bhujia: Fry potatoes and onions with spices until crispy."
+    },
+    {
+        "ingredients": ["lentils", "tomatoes", "spices", "ghee"],
+        "recipe": "Dal Tadka: Cook lentils with tomatoes and spices, top with ghee tadka."
+    },
+    {
+        "ingredients": ["flour", "potatoes", "spices", "oil"],
+        "recipe": "Aloo Paratha: Stuff paratha dough with spiced potatoes, cook on griddle."
+    },
+    {
+        "ingredients": ["rice", "vegetables", "spices", "coconut"],
+        "recipe": "Vegetable Pulao: Cook rice with mixed vegetables and spices."
+    },
+    {
+        "ingredients": ["chicken", "yogurt", "spices", "onions"],
+        "recipe": "Chicken Tikka: Marinate chicken in yogurt and spices, grill."
+    },
+    {
+        "ingredients": ["paneer", "tomatoes", "cream", "spices"],
+        "recipe": "Paneer Butter Masala: Cook paneer in tomato cream sauce with spices."
+    },
+    {
+        "ingredients": ["rice", "lentils", "spices", "ghee"],
+        "recipe": "Khichdi: Cook rice and lentils with spices, serve with ghee."
+    },
+    {
+        "ingredients": ["flour", "sugar", "ghee", "nuts"],
+        "recipe": "Gajar Halwa: Grate carrots, cook with sugar and ghee, garnish with nuts."
+    },
+    {
+        "ingredients": ["flour", "potatoes", "peas", "spices"],
+        "recipe": "Samosa: Fill pastry with spiced potatoes and peas, deep fry."
+    },
+    {
+        "ingredients": ["rice", "fish", "coconut", "spices"],
+        "recipe": "Fish Curry: Cook fish in coconut milk with spices."
+    },
+    {
+        "ingredients": ["wheat flour", "spinach", "spices", "oil"],
+        "recipe": "Palak Paratha: Mix spinach in dough, cook with spices."
+    },
+    {
+        "ingredients": ["mutton", "onions", "spices", "yogurt"],
+        "recipe": "Mutton Rogan Josh: Cook mutton with onions, spices, and yogurt."
+    },
+    {
+        "ingredients": ["rice", "milk", "sugar", "cardamom"],
+        "recipe": "Rice Kheer: Cook rice in milk with sugar and cardamom."
+    },
+    {
+        "ingredients": ["chickpeas", "tomatoes", "onions", "spices"],
+        "recipe": "Chana Masala: Cook chickpeas with tomatoes, onions, and spices."
+    },
+    {
+        "ingredients": ["flour", "sugar", "butter", "cocoa"],
+        "recipe": "Chocolate Cake: Mix flour, sugar, butter, bake with cocoa."
+    },
+    {
+        "ingredients": ["bread", "eggs", "milk", "sugar"],
+        "recipe": "French Toast: Dip bread in egg mixture, fry."
+    },
+    {
+        "ingredients": ["pasta", "tomato sauce", "cheese", "herbs"],
+        "recipe": "Pasta Alfredo: Cook pasta, mix with sauce and cheese."
+    },
+    {
+        "ingredients": ["chicken", "flour", "eggs", "bread crumbs"],
+        "recipe": "Chicken Nuggets: Bread chicken pieces, fry."
+    },
+    {
+        "ingredients": ["beef", "noodles", "vegetables", "soy sauce"],
+        "recipe": "Beef Stir Fry: Stir fry beef with noodles and vegetables."
+    },
+    {
+        "ingredients": ["salmon", "lemon", "butter", "herbs"],
+        "recipe": "Baked Salmon: Bake salmon with lemon, butter, and herbs."
+    },
+    {
+        "ingredients": ["quinoa", "vegetables", "feta", "olive oil"],
+        "recipe": "Quinoa Salad: Mix quinoa with vegetables and feta."
+    },
+    {
+        "ingredients": ["lamb", "rice", "nuts", "spices"],
+        "recipe": "Lamb Pilaf: Cook lamb with rice, nuts, and spices."
+    },
+    {
+        "ingredients": ["shrimp", "garlic", "butter", "wine"],
+        "recipe": "Garlic Shrimp: Sauté shrimp in garlic butter."
+    },
+    {
+        "ingredients": ["turkey", "cranberries", "bread", "herbs"],
+        "recipe": "Turkey Sandwich: Make sandwich with turkey and cranberries."
+    },
+    {
+        "ingredients": ["pork", "apples", "cinnamon", "sugar"],
+        "recipe": "Pork Chops with Apples: Cook pork with apples and spices."
+    },
+    {
+        "ingredients": ["duck", "orange", "honey", "ginger"],
+        "recipe": "Orange Duck: Roast duck with orange sauce."
+    },
+    {
+        "ingredients": ["veal", "mushrooms", "wine", "cream"],
+        "recipe": "Veal Marsala: Cook veal with mushrooms in wine sauce."
+    },
+    {
+        "ingredients": ["rabbit", "garlic", "rosemary", "wine"],
+        "recipe": "Rabbit Stew: Simmer rabbit with garlic and herbs."
+    },
+    {
+        "ingredients": ["venison", "berries", "vinegar", "sugar"],
+        "recipe": "Venison Marinade: Marinate venison in berry sauce."
+    },
+    {
+        "ingredients": ["goose", "apples", "cider", "spices"],
+        "recipe": "Goose with Apples: Roast goose with apple cider."
+    },
+    {
+        "ingredients": ["pheasant", "bacon", "onions", "wine"],
+        "recipe": "Pheasant Casserole: Cook pheasant with bacon and onions."
+    },
+    {
+        "ingredients": ["quail", "grapes", "butter", "thyme"],
+        "recipe": "Quail with Grapes: Bake quail with grapes and herbs."
+    },
+    {
+        "ingredients": ["ostrich", "peppers", "onions", "spices"],
+        "recipe": "Ostrich Stir Fry: Stir fry ostrich with vegetables."
+    },
+    {
+        "ingredients": ["emu", "mushrooms", "cream", "wine"],
+        "recipe": "Emu in Cream Sauce: Cook emu with mushrooms in cream."
+    },
+    {
+        "ingredients": ["kangaroo", "beer", "onions", "garlic"],
+        "recipe": "Kangaroo Burgers: Grill kangaroo patties with onions."
+    },
+    {
+        "ingredients": ["buffalo", "corn", "beans", "chili"],
+        "recipe": "Buffalo Chili: Cook buffalo with corn and beans."
     }
 ]
